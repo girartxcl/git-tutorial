@@ -2,4 +2,6 @@
 
 This is a git tutorial
 
-by Girart Excel
+Created by Girart Excel
+
+Time: Sunday, 10 AM
